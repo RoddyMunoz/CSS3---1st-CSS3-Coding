@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+	background-color: rgb(120,148,207);}
+* {
+	font-family: Arial, Verdana, sans-serif;}
+h1 {
+	font-family: "Courier New", monospace;}
+i {
+	color: green;}
+i {
+	color: red;}
+strong {
+	color: pink;}
+p strong {
+	color: green !important;}
+p#intro {
+	font-size: 100%;}
+
+p {
+	font-size: 75%;}
